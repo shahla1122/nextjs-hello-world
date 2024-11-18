@@ -1,0 +1,27 @@
+#Next.js Hello World
+Welcome to my first **Next.js**project! This simple "Hello World" app showcases the basics of **React** with ** server-side**rendering (SSR)** using Next.js.
+##Features
+-lightweight and fast server-side rendering.
+-Dynamic routing with 'pages'
+-Easy-to-deploy and scalable setup
+##Project Structure
+this project contains:
+- 'pages/':All Application routes.
+- 'public/':Static files like images.
+- 'styles/'Custom CSS for the project
+  ##Getting Started
+  ### Clone the repository:
+  git clone
+  https://github.com/shahla1122/nextjs-hello-world.git cd nextjs-hello-world
+  ### Install dependencies:
+  npm install
+  ### Run the development server:
+  npm run dev
+  ##Technologies Used
+  -
+  [Next.js](https://nextjs.org/)
+  -
+  [React](https://reactjs.org/)
+  -
+  [Node.js](https://nodejs.org/)
+  Feel free to contribute or leave feedback! 
